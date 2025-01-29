@@ -33,13 +33,6 @@ h1 {
     margin: 40px 0;
 }
 
-h2 {
-    text-align: down;
-    font-size: 25px;
-    color: #000; /* Vermelho sangue */
-    font-weight: bold;
-    margin: 25px 0;
-}
 .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
