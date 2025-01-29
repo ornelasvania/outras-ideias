@@ -1,4 +1,4 @@
-/* Reset b·sico */
+/* Reset b√°sico */
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Urbanist', Urbanist;
     line-height: 1.6;
     color: #fff;
     background-color: #000;
@@ -70,7 +70,7 @@ nav ul li a:hover {
 /* Artigos Section */
 .artigos {
     padding: 50px 0;
-    background-color: #000;
+    background-color: #FFFFFF;
 }
 
 .artigos h2 {
